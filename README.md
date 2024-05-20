@@ -1,1 +1,1 @@
-# RandomNoiseImageGenerator
+# Random Noise Image Generator
